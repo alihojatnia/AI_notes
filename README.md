@@ -1,4 +1,4 @@
 # llms
 
 ### Papers
-Build Your Own Medical Mini-DeepSeek R1 with Reinforcement Learning [github](https://github.com/hooman650/MedQwenReasoner)
+A platform for the biomedical application of large language models [paper](https://www.nature.com/articles/s41587-024-02534-3)
