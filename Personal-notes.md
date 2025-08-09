@@ -13,9 +13,6 @@
 **Streamlit:** The fastest way to turn Python scripts into shareable web apps
 
 
-# AI & Python Skills Notes
-
-## Python Skills
 - **FastAPI** → Build lightweight, production-ready APIs in no time  
    [Video 1](https://lnkd.in/dpADd3gh) |  [Video 2](https://lnkd.in/dcRmk2sk)
 
