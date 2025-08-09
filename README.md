@@ -81,7 +81,8 @@
 
 - **Awesome LLM Apps** [Github](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main)
 
-- **AI Engineer's Worlds Fair 2025 Workshop(unsloth)** [Doc] (https://docs.unsloth.ai/ai-engineers-2025)
+- **AI Engineer's Worlds Fair 2025 Workshop(unsloth)** [Doc](https://docs.unsloth.ai/ai-engineers-2025)
+  
 ---
 
 
