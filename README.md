@@ -1,4 +1,3 @@
-#  LLMs — Papers, Videos, Courses & Books
 
 ##  Papers LLms
 - **A Platform for the Biomedical Application of Large Language Models** — [Nature](https://www.nature.com/articles/s41587-024-02534-3)
