@@ -65,15 +65,15 @@
 
 - **LangFuse**  [Video](https://www.youtube.com/watch?v=epnPfe5am3I)
 
-  - **FastAPI** → Build lightweight, production-ready APIs in no time     [Video 1](https://www.youtube.com/watch?v=iWS9ogMPOI0) |  [Video 2](https://www.youtube.com/watch?v=iWS9ogMPOI0)
+- **FastAPI**  [Video 1](https://www.youtube.com/watch?v=iWS9ogMPOI0) |  [Video 2](https://www.youtube.com/watch?v=iWS9ogMPOI0)
 
-- **Async Programming** → Speed up agents by handling multiple tasks asynchronously     [Video](https://www.youtube.com/watch?v=Qb9s3UiMSTA)
+- **Async Programming**    [Video](https://www.youtube.com/watch?v=Qb9s3UiMSTA)
 
-- **Pydantic** → Data validation and settings management that keeps your agent robust and reliable     [Video](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
+- **Pydantic**   [Video](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
 
-- **Logging** → Debugging agents without good logs? Nearly impossible.     [Video](https://www.youtube.com/watch?v=9L77QExPmI0)
+- **Logging**  [Video](https://www.youtube.com/watch?v=9L77QExPmI0)
 
-- **Testing** → Unit and integration tests will save you when agents become complex  [Unit Test](https://www.youtube.com/watch?v=YbpKMIUjvK8) |  [Integration Test](https://www.youtube.com/watch?v=7dgQRVqF1N0)
+- **Testing**  [Unit Test](https://www.youtube.com/watch?v=YbpKMIUjvK8) |  [Integration Test](https://www.youtube.com/watch?v=7dgQRVqF1N0)
 
 - **Database Management (SQLAlchemy + Alembic)** → Essential for RAG and storing agent memories    [Video](https://www.youtube.com/watch?v=i9RX03zFDHU)
 
