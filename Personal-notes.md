@@ -13,23 +13,17 @@
 **Streamlit:** The fastest way to turn Python scripts into shareable web apps
 
 
-- **FastAPI** → Build lightweight, production-ready APIs in no time  
-   [Video 1](https://lnkd.in/dpADd3gh) |  [Video 2](https://lnkd.in/dcRmk2sk)
+- **FastAPI** → Build lightweight, production-ready APIs in no time     [Video 1](https://www.youtube.com/watch?v=iWS9ogMPOI0) |  [Video 2](https://www.youtube.com/watch?v=iWS9ogMPOI0)
 
-- **Async Programming** → Speed up agents by handling multiple tasks asynchronously  
-   [Video](https://lnkd.in/dQDtam6S)
+- **Async Programming** → Speed up agents by handling multiple tasks asynchronously     [Video](https://www.youtube.com/watch?v=Qb9s3UiMSTA)
 
-- **Pydantic** → Data validation and settings management that keeps your agent robust and reliable  
-   [Video](https://lnkd.in/dArUdWKT)
+- **Pydantic** → Data validation and settings management that keeps your agent robust and reliable     [Video](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
 
-- **Logging** → Debugging agents without good logs? Nearly impossible.  
-   [Video](https://lnkd.in/dYP3tWAk)
+- **Logging** → Debugging agents without good logs? Nearly impossible.     [Video](https://www.youtube.com/watch?v=9L77QExPmI0)
 
-- **Testing** → Unit and integration tests will save you when agents become complex  
-   [Unit Test](https://lnkd.in/d-sYNxxz) |  [Integration Test](https://lnkd.in/d6waJuGp)
+- **Testing** → Unit and integration tests will save you when agents become complex  [Unit Test](https://www.youtube.com/watch?v=YbpKMIUjvK8) |  [Integration Test](https://www.youtube.com/watch?v=7dgQRVqF1N0)
 
-- **Database Management (SQLAlchemy + Alembic)** → Essential for RAG and storing agent memories  
-   [Video](https://lnkd.in/dj9UsCjd)
+- **Database Management (SQLAlchemy + Alembic)** → Essential for RAG and storing agent memories    [Video](https://www.youtube.com/watch?v=i9RX03zFDHU)
 
 
 
