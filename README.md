@@ -29,7 +29,10 @@
 - **BLIP3-o: A Family of Fully Open Unified Multimodal Models — Architecture, Training, and Dataset** — [arXiv:2505.09568](https://arxiv.org/abs/2505.09568)  
 - **Emerging Properties in Unified Multimodal Pretraining** — [arXiv:2505.14683](https://arxiv.org/abs/2505.14683)  
 - **MMaDA: Multimodal Large Diffusion Language Models** — [arXiv:2505.15809](https://arxiv.org/abs/2505.15809)  
-- **When Continue Learning Meets Multimodal Large Language Model: A Survey** — [arXiv:2503.01887](https://arxiv.org/abs/2503.01887)  
+- **When Continue Learning Meets Multimodal Large Language Model: A Survey** — [arXiv:2503.01887](https://arxiv.org/abs/2503.01887)
+- **MLLM Series Tutorial @ CVPR 2024** [Youtube](https://www.youtube.com/watch?v=pHBT3zXxQX8) [Github](https://mllm2024.github.io/COLING2024/)
+- **CVPR 2022 Tutorial on "Recent Advances in Vision-and-Language Pre-training**[Youtube](https://vlp-tutorial.github.io/2022/)
+  
 
 
 ##  Small Language Model Research
