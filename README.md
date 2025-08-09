@@ -76,35 +76,26 @@
 
 - **LangGraph** → Used in organisations to build production-ready AI agents   [Video](https://lnkd.in/due46xmV)
 
-- **RAGFlow** — An open-source RAG engine based on deep document understanding, combining LLMs for truthful QA with well-founded citations from complex formatted data.  
-  [GitHub](https://github.com/infiniflow/ragflow)
+- **RAGFlow** — An open-source RAG engine based on deep document understanding, combining LLMs for truthful QA with well-founded citations from complex formatted data.   [GitHub](https://github.com/infiniflow/ragflow)
 
-- **nano-graphrag** — A smaller, faster, cleaner GraphRAG implementation. Portable, asynchronous, fully typed, and easier to hack than the official Microsoft version.  
-  [GitHub](https://github.com/gusye1234/nano-graphrag)
+- **nano-graphrag** — A smaller, faster, cleaner GraphRAG implementation. Portable, asynchronous, fully typed, and easier to hack than the official Microsoft version.    [GitHub](https://github.com/gusye1234/nano-graphrag)
 
-- **GraphRAG-Local-UI** — A local adaptation of Microsoft’s GraphRAG supporting local models, with a comprehensive interactive UI ecosystem for indexing, prompt tuning, querying, and chatting.  
-  [GitHub](https://github.com/severian42/GraphRAG-Local-UI)
+- **GraphRAG-Local-UI** — A local adaptation of Microsoft’s GraphRAG supporting local models, with a comprehensive interactive UI ecosystem for indexing, prompt tuning, querying, and chatting.    [GitHub](https://github.com/severian42/GraphRAG-Local-UI)
 
-- **LLM Graph Builder** — Transforms unstructured data (PDF, DOC, TXT, YouTube, web pages) into a structured Knowledge Graph stored in Neo4j using LLMs and LangChain.  
-  [GitHub](https://github.com/neo4j-labs/llm-graph-builder)
+- **LLM Graph Builder** — Transforms unstructured data (PDF, DOC, TXT, YouTube, web pages) into a structured Knowledge Graph stored in Neo4j using LLMs and LangChain.    [GitHub](https://github.com/neo4j-labs/llm-graph-builder)
 
-- **CAMEL** — An open-source community focused on studying the scaling laws of agents, supporting diverse agents, tasks, prompts, models, and simulated environments.  
-  [GitHub](https://github.com/camel-ai/camel)
+- **CAMEL** — An open-source community focused on studying the scaling laws of agents, supporting diverse agents, tasks, prompts, models, and simulated environments.  [GitHub](https://github.com/camel-ai/camel)
 
-- **FlashRAG** — Python toolkit for RAG research, including 36 benchmark datasets and 23 state-of-the-art RAG algorithms, including reasoning-based methods.  
-  [GitHub](https://github.com/RUC-NLPIR/FlashRAG)
+- **FlashRAG** — Python toolkit for RAG research, including 36 benchmark datasets and 23 state-of-the-art RAG algorithms, including reasoning-based methods.   [GitHub](https://github.com/RUC-NLPIR/FlashRAG)
 
 - **kotaemon** — Clean and customizable open-source RAG UI for chatting with your documents, built for both end users and developers.  
   [GitHub](https://github.com/Cinnamon/kotaemon)
 
-- **DB-GPT** — AI-native data app framework with agentic workflow orchestration, multi-model management, RAG and Multi-Agents frameworks for simplifying large model applications with data.  
-  [Link](https://chatgpt.com/c/6896df09-83a8-8320-bd78-9624c542f703)
+- **DB-GPT** — AI-native data app framework with agentic workflow orchestration, multi-model management, RAG and Multi-Agents frameworks for simplifying large model applications with data.    [Link](https://chatgpt.com/c/6896df09-83a8-8320-bd78-9624c542f703)
 
-- **GraphRAG** — Microsoft’s data pipeline and transformation suite that extracts structured data from unstructured text using LLMs to enhance reasoning on private data.  
-  [GitHub](https://github.com/microsoft/graphrag)
+- **GraphRAG** — Microsoft’s data pipeline and transformation suite that extracts structured data from unstructured text using LLMs to enhance reasoning on private data.    [GitHub](https://github.com/microsoft/graphrag)
 
-- **HippoRAG 2** — Memory framework for LLMs improving their ability to recognize and utilize connections in new knowledge, mimicking human long-term memory.  
-  [GitHub](https://github.com/OSU-NLP-Group/HippoRAG)
+- **HippoRAG 2** — Memory framework for LLMs improving their ability to recognize and utilize connections in new knowledge, mimicking human long-term memory.    [GitHub](https://github.com/OSU-NLP-Group/HippoRAG)
 
 
 ##  Books
