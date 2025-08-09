@@ -48,7 +48,6 @@
 ##  Useful Resources
 
 - **500+ AI Agent Projects / Use Cases** — [GitHub Repository](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file)
-## 🔍 Open-Source RAG (Retrieval-Augmented Generation) & Related Tools
 
 - **RAGFlow** — An open-source RAG engine based on deep document understanding, combining LLMs for truthful QA with well-founded citations from complex formatted data.  
   [GitHub](https://github.com/infiniflow/ragflow)
