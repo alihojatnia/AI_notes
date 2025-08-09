@@ -32,42 +32,4 @@
    [Video](https://lnkd.in/dj9UsCjd)
 
 
-## RAG Skills
-- **Understanding RAG** → Learn what RAG is and why it matters  
-   [Video](https://lnkd.in/dGUijEMw)
 
-- **Text Embeddings** → Foundation of search and retrieval in RAG systems  
-   [Video](https://lnkd.in/dtG7m-mv)
-
-- **Vector Database** → Store and retrieve embeddings efficiently  
-   [Video](https://lnkd.in/dqbrK3d7)
-
-- **Chunking Strategies** → Split data smartly for better retrieval quality  
-   [Video](https://lnkd.in/dVRPRVfN)
-
-- **RAG with PostgreSQL** → RAG without expensive vector DBs? Yes, possible.  
-   [Video](https://lnkd.in/dDm7miwh)
-
-- **RAG with LangChain** → Chain together retrieval, LLMs, and prompts easily  
-   [Video](https://lnkd.in/d3PuPKbF)
-
-- **RAG Evaluations** → Know if your retrieval and answers are actually good  
-   [Video](https://lnkd.in/dn-NDF_U)
-
-- **Advanced RAG Techniques** → Fine-tune your RAG system for real-world performance  
-   [Video](https://lnkd.in/dcXwX5Pp)
-
-
-## AI Agent Framework
-- **LangGraph** → Used in organisations to build production-ready AI agents  
-   [Video](https://lnkd.in/due46xmV)
-
-
-## Prompt Engineering
-- **Prompt Engineering Guide** → Follow specific guides from LLM providers  
-   [Guide](https://lnkd.in/dAMk64iC)
-
-
-## AI Agent Monitoring
-- **LangFuse** → Becoming increasingly popular for monitoring  
-  [Video](https://lnkd.in/dQbpvSVv)
