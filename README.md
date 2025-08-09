@@ -45,6 +45,11 @@
 ##  Courses
 - **YSDA Natural Language Processing Course** — [GitHub](https://github.com/yandexdataschool/nlp_course)
 
+##  Useful Resources
+
+- **500+ AI Agent Projects / Use Cases** — [GitHub Repository](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file)
+
+
 ##  Books
 - **AI Engineering: Building Applications with Foundation Models** — Chip Huyen — [Amazon](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
 - **Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications** — Chip Huyen — [Amazon](https://www.amazon.co.uk/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
