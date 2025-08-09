@@ -85,13 +85,13 @@
 
 - **Docker Tutorial**[Video](https://www.youtube.com/watch?v=3c-iBn73dDE)
 
-- **Github Action** [Video] (https://www.youtube.com/watch?v=ciqWMIf7Pz0)
+- **Github Action** [Video](https://www.youtube.com/watch?v=ciqWMIf7Pz0)
 
 - **Load Testing in Python with locust.io**[Video](https://www.youtube.com/watch?v=SOu6hgklQRA)
 
 - **A/B test** [Video](https://www.youtube.com/watch?v=zFMgpxG-chM)
 
-- **AWS Sagemaker** [Video] (https://www.youtube.com/watch?v=Le-A72NjaWs)
+- **AWS Sagemaker** [Video](https://www.youtube.com/watch?v=Le-A72NjaWs)
 
 - **MLflow**[Video](https://www.youtube.com/watch?v=6ngxBkx05Fs)
 
