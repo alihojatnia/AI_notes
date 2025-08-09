@@ -40,27 +40,27 @@
 
 
 ##  Videos
-- **Understanding RAG**    [Video](https://lnkd.in/dGUijEMw)
+- **Understanding RAG**    [Video](https://www.youtube.com/watch?v=T-D1OfcDW1M)
 
-- **Text Embeddings**    [Video](https://lnkd.in/dtG7m-mv)
+- **Text Embeddings**    [Video](https://www.youtube.com/watch?v=vlcQV4j2kTo)
 
-- **Vector Database**     [Video](https://lnkd.in/dqbrK3d7)
+- **Vector Database**     [Video](https://www.youtube.com/watch?v=gl1r1XV0SLw)
 
-- **Chunking Strategies**     [Video](https://lnkd.in/dVRPRVfN)
+- **Chunking Strategies**     [Video](https://www.youtube.com/watch?v=8OJC21T2SL4)
 
-- **RAG with PostgreSQL**     [Video](https://lnkd.in/dDm7miwh)
+- **RAG with PostgreSQL**     [Video](https://www.youtube.com/watch?v=hAdEuDBN57g)
 
-- **RAG with LangChain**    [Video](https://lnkd.in/d3PuPKbF)
+- **RAG with LangChain**    [Video](https://www.youtube.com/watch?v=sVcwVQRHIc8)
 
-- **RAG Evaluations**  [Video](https://lnkd.in/dn-NDF_U)
+- **RAG Evaluations**  [Video](https://www.youtube.com/watch?v=mEv-2Xnb_Wk)
 
-- **Advanced RAG Techniques**   [Video](https://lnkd.in/dcXwX5Pp)
+- **Advanced RAG Techniques**   [Video](https://www.youtube.com/watch?v=sGvXO7CVwc0)
   
-- **LangGraph**   [Video](https://lnkd.in/due46xmV)
+- **LangGraph**   [Video](https://www.youtube.com/watch?v=jGg_1h0qzaM)
 
--  **Prompt Engineering Guide**   [Guide](https://lnkd.in/dAMk64iC)
+-  **Prompt Engineering Guide**   [Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
-- **LangFuse**  [Video](https://lnkd.in/dQbpvSVv)
+- **LangFuse**  [Video](https://www.youtube.com/watch?v=epnPfe5am3I)
   
 
 ##  Courses
