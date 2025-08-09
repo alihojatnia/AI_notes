@@ -44,6 +44,8 @@
 
 ##  Courses
 - **YSDA Natural Language Processing Course** — [GitHub](https://github.com/yandexdataschool/nlp_course)
+- **Stanford CS336** - Language modeling from scratch [YouTube playlist](https://lnkd.in/grgKXkYV) , [Course website](https://lnkd.in/gBSjsxAJ) ,[Code](https://lnkd.in/gqx8hvRD)
+  
 
 ##  Useful Resources
 
@@ -91,6 +93,11 @@
 - **Practical MLOps: Operationalizing Machine Learning Models** — Noah Gift, Alfredo Deza — [Amazon](https://www.amazon.co.uk/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
 - **Introduction to Machine Learning Interviews Book** — Chip Huyen -- [Website](https://huyenchip.com/ml-interviews-book/)
 - **Build a Large Language Model From Scratch** - Sebastian Raschka, [Book](https://lnkd.in/ddyVSfTu) ,  [Code](https://lnkd.in/d9uE345p)
+- **Generative AI with LangChain: Build large language model (LLM) apps with Python, ChatGPT and other LLMs** Ben Auffarth - [Link](https://www.packtpub.com/en-at/product/generative-ai-with-langchain-9781837022007)
+- **Practical Statistics for Data Scientists** Peter Bruce and Andrew Bruce , [Amazon](https://www.amazon.co.uk/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)
+- **Fluent Python** - Luciano - [Amazon](https://www.amazon.co.uk/Fluent-Python-Luciano-Ramalho/dp/1491946008)
+
+  
 
 
 
