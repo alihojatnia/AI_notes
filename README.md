@@ -71,11 +71,14 @@
 - **Stanford CS336** - Language modeling from scratch [YouTube playlist](https://lnkd.in/grgKXkYV) , [Course website](https://lnkd.in/gBSjsxAJ) ,[Code](https://lnkd.in/gqx8hvRD)
   
 
-##  Useful Resources
+##  Useful Resources & Github repo
 
 - **500+ AI Agent Projects / Use Cases** — [GitHub Repository](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file)
 
 - **Nir Diamant – Generative AI • LLM • RAG • Production Agents** - [Github](https://github.com/NirDiamant)
+
+- **Fine-tuning Notebooks** -[Github](https://github.com/unslothai/notebooks)
+
 
 
 
