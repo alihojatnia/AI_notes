@@ -75,7 +75,7 @@
 
 - **Testing**  [Unit Test](https://www.youtube.com/watch?v=YbpKMIUjvK8) |  [Integration Test](https://www.youtube.com/watch?v=7dgQRVqF1N0)
 
-- **Database Management (SQLAlchemy + Alembic)** → Essential for RAG and storing agent memories    [Video](https://www.youtube.com/watch?v=i9RX03zFDHU)
+- **Database Management (SQLAlchemy + Alembic)**  [Video](https://www.youtube.com/watch?v=i9RX03zFDHU)
 
 - **Git**[Video](https://www.youtube.com/watch?v=3fUbBnN_H2c)
 
