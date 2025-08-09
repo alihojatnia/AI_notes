@@ -82,7 +82,7 @@
 - **Awesome LLM Apps** [Github](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main)
 
 - **AI Engineer's Worlds Fair 2025 Workshop(unsloth)** [Doc] (https://docs.unsloth.ai/ai-engineers-2025)
---
+---
 
 
 - **RAGFlow** — An open-source RAG engine based on deep document understanding, combining LLMs for truthful QA with well-founded citations from complex formatted data.   [GitHub](https://github.com/infiniflow/ragflow)
