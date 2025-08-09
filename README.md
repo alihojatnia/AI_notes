@@ -40,7 +40,28 @@
 
 
 ##  Videos
-- **Likelihood** — [YouTube](https://www.youtube.com/watch?v=-eGJuwQ5A2o&t=479s)
+- **Understanding RAG**  Learn what RAG is and why it matters   [Video](https://lnkd.in/dGUijEMw)
+
+- **Text Embeddings**  Foundation of search and retrieval in RAG systems  [Video](https://lnkd.in/dtG7m-mv)
+
+- **Vector Database** Store and retrieve embeddings efficiently     [Video](https://lnkd.in/dqbrK3d7)
+
+- **Chunking Strategies** Split data smartly for better retrieval quality     [Video](https://lnkd.in/dVRPRVfN)
+
+- **RAG with PostgreSQL** RAG without expensive vector DBs? Yes, possible.     [Video](https://lnkd.in/dDm7miwh)
+
+- **RAG with LangChain**  Chain together retrieval, LLMs, and prompts easily  [Video](https://lnkd.in/d3PuPKbF)
+
+- **RAG Evaluations** Know if your retrieval and answers are actually good  [Video](https://lnkd.in/dn-NDF_U)
+
+- **Advanced RAG Techniques**  Fine-tune your RAG system for real-world performance  [Video](https://lnkd.in/dcXwX5Pp)
+  
+- **LangGraph**  build production-ready AI agents  [Video](https://lnkd.in/due46xmV)
+
+-  **Prompt Engineering Guide**  Follow specific guides from LLM providers  [Guide](https://lnkd.in/dAMk64iC)
+
+- **LangFuse** Becoming increasingly popular for monitoring  [Video](https://lnkd.in/dQbpvSVv)
+  
 
 ##  Courses
 - **YSDA Natural Language Processing Course** — [GitHub](https://github.com/yandexdataschool/nlp_course)
@@ -53,7 +74,7 @@
 
 - **Nir Diamant – Generative AI • LLM • RAG • Production Agents** - [Github](https://github.com/NirDiamant)
 
-
+- **LangGraph** → Used in organisations to build production-ready AI agents   [Video](https://lnkd.in/due46xmV)
 
 - **RAGFlow** — An open-source RAG engine based on deep document understanding, combining LLMs for truthful QA with well-founded citations from complex formatted data.  
   [GitHub](https://github.com/infiniflow/ragflow)
