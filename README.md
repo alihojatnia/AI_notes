@@ -16,7 +16,7 @@
 - **Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning** — [arXiv:2505.03318](https://arxiv.org/abs/2505.03318)  
 - **Unifying Large Language Models and Knowledge Graphs: A Roadmap** — [arXiv:2306.08302 (PDF)](https://arxiv.org/pdf/2306.08302)  
 
-## 🎯 Knowledge Distillation
+## Knowledge Distillation
 
 - **Module-wise Adaptive Distillation for Multimodality Foundation Models** — [arXiv:2310.04550](https://arxiv.org/abs/2310.04550)  
 - **Unlock the Power: Competitive Distillation for Multi-Modal Large Language Models** — [arXiv:2311.08213](https://arxiv.org/abs/2311.08213)  
