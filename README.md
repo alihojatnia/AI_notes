@@ -90,7 +90,7 @@
 - **Hands-On Large Language Models: Language Understanding and Generation** — Jay Alammar, Maarten Grootendorst — [Amazon](https://www.amazon.co.uk/Hands-Large-Language-Models-Understanding-ebook/dp/B0DGZ46G88) [Code](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?tab=readme-ov-file)
 - **Practical MLOps: Operationalizing Machine Learning Models** — Noah Gift, Alfredo Deza — [Amazon](https://www.amazon.co.uk/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
 - **Introduction to Machine Learning Interviews Book** — Chip Huyen -- [https://huyenchip.com/ml-interviews-book/]
-- **𝗕𝘂𝗶𝗹𝗱 𝗮 𝗟𝗮𝗿𝗴𝗲 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹 (𝗙𝗿𝗼𝗺 𝗦𝗰𝗿𝗮𝘁𝗰𝗵) - Sebastian Raschka, [Book](https://lnkd.in/ddyVSfTu) ,  [Code](https://lnkd.in/d9uE345p)
+- **Build a Large Language Model From Scratch** - Sebastian Raschka, [Book](https://lnkd.in/ddyVSfTu) ,  [Code](https://lnkd.in/d9uE345p)
 
 
 
