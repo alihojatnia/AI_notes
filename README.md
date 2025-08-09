@@ -87,7 +87,7 @@
 ##  Books
 - **AI Engineering: Building Applications with Foundation Models** — Chip Huyen — [Amazon](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)
 - **Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications** — Chip Huyen — [Amazon](https://www.amazon.co.uk/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
-- **Hands-On Large Language Models: Language Understanding and Generation** — Jay Alammar, Maarten Grootendorst — [Amazon](https://www.amazon.co.uk/Hands-Large-Language-Models-Understanding-ebook/dp/B0DGZ46G88)
+- **Hands-On Large Language Models: Language Understanding and Generation** — Jay Alammar, Maarten Grootendorst — [Amazon](https://www.amazon.co.uk/Hands-Large-Language-Models-Understanding-ebook/dp/B0DGZ46G88) [Code](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models?tab=readme-ov-file)
 - **Practical MLOps: Operationalizing Machine Learning Models** — Noah Gift, Alfredo Deza — [Amazon](https://www.amazon.co.uk/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
 - **Introduction to Machine Learning Interviews Book** — Chip Huyen -- [https://huyenchip.com/ml-interviews-book/]
 
