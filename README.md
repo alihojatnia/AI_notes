@@ -74,7 +74,7 @@
 
 - **Nir Diamant – Generative AI • LLM • RAG • Production Agents** - [Github](https://github.com/NirDiamant)
 
-- **LangGraph** → Used in organisations to build production-ready AI agents   [Video](https://lnkd.in/due46xmV)
+
 
 - **RAGFlow** — An open-source RAG engine based on deep document understanding, combining LLMs for truthful QA with well-founded citations from complex formatted data.   [GitHub](https://github.com/infiniflow/ragflow)
 
