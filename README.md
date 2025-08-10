@@ -103,7 +103,7 @@
 
 ---
 
-## 🛠 Useful Resources & GitHub Repos
+##  Useful Resources & GitHub Repos
 
 | Resource | Description | Link |
 |----------|-------------|------|
@@ -125,7 +125,7 @@
 
 ---
 
-## 📚 Books
+##  Books
 
 | Book | Author(s) | Link |
 |------|-----------|------|
