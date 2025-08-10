@@ -92,7 +92,7 @@
 |  | Fine-tuning Quantization, LoRA ,QLora | Youtube | [Part1](https://www.youtube.com/watch?v=6S59Y0ckTm4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3) , [Part2](https://www.youtube.com/watch?v=l5a_uKnbEr4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&index=3) |
 
 
-## 🎓 Courses
+##  Courses
 
 | Course | Type | Link |
 |--------|------|------|
