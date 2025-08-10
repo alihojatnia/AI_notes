@@ -12,6 +12,15 @@
 
 **Streamlit:** The fastest way to turn Python scripts into shareable web apps
 
+**Chainlit:** Build python production-ready conversational AI applications in minutes, not weeks [Github](https://github.com/Chainlit/chainlit)
+
+**Taipy:** Build Python Data & AI web applications [Github](https://github.com/Avaiga/taipy)
+
+**reflex:** Performant, customizable web apps in pure Python. Deploy in seconds. [Github](https://github.com/reflex-dev/reflex)
+
+**Gradio:** Gradio: Build Machine Learning Web Apps — in Python [Github](https://github.com/gradio-app/gradio)
+
+
 
 
 
