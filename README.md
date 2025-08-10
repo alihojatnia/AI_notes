@@ -89,6 +89,7 @@
 | **Large Language Model Courses** | Large Language Models: Application through Production (Databricks) | YouTube Playlist | [Watch](https://www.youtube.com/watch?v=3H5UC2c0Dyc&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm) |
 |  | Databricks LLM YouTube Series (Practical Tips) | YouTube Playlist | [Watch](https://www.youtube.com/watch?v=W0c7jQezTDw&list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS) |
 |  | Full Stack Deep Learning LLM Bootcamp | Website | [Visit](https://fullstackdeeplearning.com/llm-bootcamp/) |
+|  | Fine-tuning Quantization, LoRA ,QLora | Youtube | [Part1](https://www.youtube.com/watch?v=6S59Y0ckTm4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3) , [Part2](https://www.youtube.com/watch?v=l5a_uKnbEr4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&index=3) |
 
 
 ## 🎓 Courses
