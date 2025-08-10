@@ -22,7 +22,7 @@
 
 
 ---
-**Dataset:**A 15TB collection of physics simulation datasets[link](https://huggingface.co/collections/polymathic-ai/the-well-67e129f4ca23e0447395d74c)
+**Dataset:** A 15TB collection of physics simulation datasets[link](https://huggingface.co/collections/polymathic-ai/the-well-67e129f4ca23e0447395d74c)
       
     
 
