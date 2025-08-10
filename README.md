@@ -42,73 +42,49 @@
 - **Small Language Models are the Future of Agentic AI** — [arXiv:2506.02153](https://arxiv.org/abs/2506.02153)  
 
 
-##  Videos
-- **Understanding RAG**    [Video](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+#  Learning Resources
 
-- **Text Embeddings**    [Video](https://www.youtube.com/watch?v=vlcQV4j2kTo)
+| Topic | Resource | Type | Link |
+|-------|----------|------|------|
+| **Retrieval-Augmented Generation (RAG)** | Understanding RAG | Video | [Watch](https://www.youtube.com/watch?v=T-D1OfcDW1M) |
+|  | Text Embeddings | Video | [Watch](https://www.youtube.com/watch?v=vlcQV4j2kTo) |
+|  | Vector Database | Video | [Watch](https://www.youtube.com/watch?v=gl1r1XV0SLw) |
+|  | Chunking Strategies | Video | [Watch](https://www.youtube.com/watch?v=8OJC21T2SL4) |
+|  | RAG with PostgreSQL | Video | [Watch](https://www.youtube.com/watch?v=hAdEuDBN57g) |
+|  | RAG with LangChain | Video | [Watch](https://www.youtube.com/watch?v=sVcwVQRHIc8) |
+|  | Advanced RAG Techniques | Video | [Watch](https://www.youtube.com/watch?v=sGvXO7CVwc0) |
+|  | RAG Evaluations | Video | [Watch](https://www.youtube.com/watch?v=mEv-2Xnb_Wk) |
+|  | LangGraph | Video | [Watch](https://www.youtube.com/watch?v=jGg_1h0qzaM) |
+| **Prompt Engineering** | Prompt Engineering Guide | Guide | [View](https://github.com/dair-ai/Prompt-Engineering-Guide) |
+| **Backend Development** | FastAPI | Video | [Video 1](https://www.youtube.com/watch?v=iWS9ogMPOI0) / [Video 2](https://www.youtube.com/watch?v=iWS9ogMPOI0) |
+|  | Async Programming | Video | [Watch](https://www.youtube.com/watch?v=Qb9s3UiMSTA) |
+|  | Pydantic | Video | [Watch](https://www.youtube.com/watch?v=XIdQ6gO3Anc) |
+|  | Logging | Video | [Watch](https://www.youtube.com/watch?v=9L77QExPmI0) |
+|  | Database Management (SQLAlchemy + Alembic) | Video | [Watch](https://www.youtube.com/watch?v=i9RX03zFDHU) |
+|  | Git | Video | [Watch](https://www.youtube.com/watch?v=3fUbBnN_H2c) |
+|  | Docker Tutorial | Video | [Watch](https://www.youtube.com/watch?v=3c-iBn73dDE) |
+|  | GitHub Actions | Video | [Watch](https://www.youtube.com/watch?v=ciqWMIf7Pz0) |
+| **Testing & Performance** | Unit Test | Video | [Watch](https://www.youtube.com/watch?v=YbpKMIUjvK8) |
+|  | Integration Test | Video | [Watch](https://www.youtube.com/watch?v=7dgQRVqF1N0) |
+|  | Load Testing with locust.io | Video | [Watch](https://www.youtube.com/watch?v=SOu6hgklQRA) |
+|  | A/B Testing | Video | [Watch](https://www.youtube.com/watch?v=zFMgpxG-chM) |
+| **MLOps & Deployment** | AWS Sagemaker | Video | [Watch](https://www.youtube.com/watch?v=Le-A72NjaWs) |
+|  | MLflow | Video | [Watch](https://www.youtube.com/watch?v=6ngxBkx05Fs) |
+|  | MLOps Zoomcamp | GitHub Repo | [View](https://github.com/DataTalksClub/mlops-zoomcamp) |
+|  | Train & Deploy ML | GitHub Repo | [View](https://github.com/jacopotagliabue/MLSys-NYU-2022) |
+|  | Airflow | Video | [Watch](https://www.youtube.com/watch?v=K9AnJ9_ZAXE) |
+| **Monitoring & Observability** | Grafana and Prometheus | Video | [Watch](https://www.youtube.com/watch?v=hePmCMmekmo) |
+|  | DataDog | Playlist | [Watch](https://www.youtube.com/playlist?list=PL0xeHY_ImQVVXHAExfdxLdfufEtZs2Ye2) |
+|  | LangFuse | Video | [Watch](https://www.youtube.com/watch?v=epnPfe5am3I) |
+| **Large Language Model Courses** | Large Language Models: Application through Production (Databricks) | YouTube Playlist | [Watch](https://www.youtube.com/watch?v=3H5UC2c0Dyc&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm) |
+|  | Databricks LLM YouTube Series (Practical Tips) | YouTube Playlist | [Watch](https://www.youtube.com/watch?v=W0c7jQezTDw&list=PLTPXxbhUt-YWjMCDahwdVye8HW69p5NYS) |
+|  | Full Stack Deep Learning LLM Bootcamp | Website | [Visit](https://fullstackdeeplearning.com/llm-bootcamp/) |
 
-- **Vector Database**     [Video](https://www.youtube.com/watch?v=gl1r1XV0SLw)
-
-- **Chunking Strategies**     [Video](https://www.youtube.com/watch?v=8OJC21T2SL4)
-
-- **RAG with PostgreSQL**     [Video](https://www.youtube.com/watch?v=hAdEuDBN57g)
-
-- **RAG with LangChain**    [Video](https://www.youtube.com/watch?v=sVcwVQRHIc8)
-
-- **RAG Evaluations**  [Video](https://www.youtube.com/watch?v=mEv-2Xnb_Wk)
-
-- **Advanced RAG Techniques**   [Video](https://www.youtube.com/watch?v=sGvXO7CVwc0)
-  
-- **LangGraph**   [Video](https://www.youtube.com/watch?v=jGg_1h0qzaM)
-
--  **Prompt Engineering Guide**   [Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-
-- **LangFuse**  [Video](https://www.youtube.com/watch?v=epnPfe5am3I)
-
-- **FastAPI**  [Video 1](https://www.youtube.com/watch?v=iWS9ogMPOI0) |  [Video 2](https://www.youtube.com/watch?v=iWS9ogMPOI0)
-
-- **Async Programming**    [Video](https://www.youtube.com/watch?v=Qb9s3UiMSTA)
-
-- **Pydantic**   [Video](https://www.youtube.com/watch?v=XIdQ6gO3Anc)
-
-- **Logging**  [Video](https://www.youtube.com/watch?v=9L77QExPmI0)
-
-- **Testing**  [Unit Test](https://www.youtube.com/watch?v=YbpKMIUjvK8) |  [Integration Test](https://www.youtube.com/watch?v=7dgQRVqF1N0)
-
-- **Database Management (SQLAlchemy + Alembic)**  [Video](https://www.youtube.com/watch?v=i9RX03zFDHU)
-
-- **Git**[Video](https://www.youtube.com/watch?v=3fUbBnN_H2c)
-
-- **Unit test , Pytest**[Video](https://www.youtube.com/watch?v=YbpKMIUjvK8)
-
-- **PyTest • REST API Integration Testing with Python**[Video](https://www.youtube.com/watch?v=7dgQRVqF1N0)
-
-- **Docker Tutorial**[Video](https://www.youtube.com/watch?v=3c-iBn73dDE)
-
-- **Github Action** [Video](https://www.youtube.com/watch?v=ciqWMIf7Pz0)
-
-- **Load Testing in Python with locust.io**[Video](https://www.youtube.com/watch?v=SOu6hgklQRA)
-
-- **A/B test** [Video](https://www.youtube.com/watch?v=zFMgpxG-chM)
-
-- **AWS Sagemaker** [Video](https://www.youtube.com/watch?v=Le-A72NjaWs)
-
-- **MLflow**[Video](https://www.youtube.com/watch?v=6ngxBkx05Fs)
-
-- **Grafana and Prometheus** [Video](https://www.youtube.com/watch?v=hePmCMmekmo)
-  
-- **DataDog** [Video](https://www.youtube.com/playlist?list=PL0xeHY_ImQVVXHAExfdxLdfufEtZs2Ye2)
-
-- **Airflow** [Video](https://www.youtube.com/watch?v=K9AnJ9_ZAXE)
-
-- **MLOps Zoomcamp** [Github](https://github.com/DataTalksClub/mlops-zoomcamp)
-
-- **Train & Deploy ML** [Github](https://github.com/jacopotagliabue/MLSys-NYU-2022)
-  
 
 ##  Courses
 - **YSDA Natural Language Processing Course** — [GitHub](https://github.com/yandexdataschool/nlp_course)
 - **Stanford CS336** - Language modeling from scratch [YouTube playlist](https://lnkd.in/grgKXkYV) , [Course website](https://lnkd.in/gBSjsxAJ) ,[Code](https://lnkd.in/gqx8hvRD)
+- **HuggingFace YouTube Playlist**HuggingFace YouTube Playlist [YouTube playlist](https://www.youtube.com/watch?v=00GKzGyWFEs&list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
   
 
 ##  Useful Resources & Github repo
