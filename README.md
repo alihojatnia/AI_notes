@@ -114,6 +114,7 @@
 | Nir Diamant – Generative AI • LLM • RAG • Production Agents | Personal repo with AI, LLM & RAG resources | [GitHub](https://github.com/NirDiamant) |
 | Fine-tuning Notebooks | Unsloth fine-tuning notebooks | [GitHub](https://github.com/unslothai/notebooks) |
 | Awesome LLM Apps | Curated list of LLM apps | [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main) |
+| Neo4j | Knowledge Graph | [Github](https://github.com/neo4j) |
 | AI Engineer's Worlds Fair 2025 Workshop (Unsloth) | Workshop documentation | [Docs](https://docs.unsloth.ai/ai-engineers-2025) |
 | RAGFlow | Open-source RAG engine for truthful QA | [GitHub](https://github.com/infiniflow/ragflow) |
 | nano-graphrag | Lightweight GraphRAG implementation | [GitHub](https://github.com/gusye1234/nano-graphrag) |
