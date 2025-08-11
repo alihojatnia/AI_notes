@@ -15,6 +15,8 @@
 | Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning | arXiv:2505.07263 | [PDF](https://arxiv.org/pdf/2505.07263) |
 | Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning | arXiv:2505.03318 | [Read](https://arxiv.org/abs/2505.03318) |
 | Unifying LLMs and Knowledge Graphs: A Roadmap | arXiv:2306.08302 | [PDF](https://arxiv.org/pdf/2306.08302) |
+|  Mixture-of-Agents Enhances Large Language Model Capabilities |arXiv:2406.04692 | [PDF](https://arxiv.org/pdf/2406.04692)|
+| Hierarchical Reasoning Model |arXiv:2506.21734 | [PDF](https://arxiv.org/abs/2506.21734)|
 
 ---
 
@@ -139,6 +141,7 @@
 | Generative AI with LangChain | Ben Auffarth | [Link](https://www.packtpub.com/en-at/product/generative-ai-with-langchain-9781837022007) |
 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [Amazon](https://www.amazon.co.uk/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) |
 | Fluent Python | Luciano Ramalho | [Amazon](https://www.amazon.co.uk/Fluent-Python-Luciano-Ramalho/dp/1491946008) |
+| R for Data Science | Hadley Wickham  | [Amazon](https://www.amazon.com/dp/1492097403/ref=emc_bcc_2_i) |
 
 
   
