@@ -141,7 +141,7 @@
 | Generative AI with LangChain | Ben Auffarth | [Link](https://www.packtpub.com/en-at/product/generative-ai-with-langchain-9781837022007) |
 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [Amazon](https://www.amazon.co.uk/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) |
 | Fluent Python | Luciano Ramalho | [Amazon](https://www.amazon.co.uk/Fluent-Python-Luciano-Ramalho/dp/1491946008) |
-| R for Data Science | Hadley Wickham  | [Amazon](https://www.amazon.com/dp/1492097403/ref=emc_bcc_2_i) |
+| R for Data Science | Hadley Wickham  | [Amazon](https://www.amazon.com/dp/1492097403/ref=emc_bcc_2_i), [Web](https://r4ds.hadley.nz/) |
 
 
   
