@@ -59,7 +59,19 @@
 |  Simulating Three-dimensional Turbulence with Physics-informed Neural Networks  | arXiv:2507.08972 |  [PDF](https://arxiv.org/abs/2507.08972) |
 | AB-UPT: Scaling Neural CFD Surrogates for High-Fidelity Automotive Aerodynamics Simulations via Anchored-Branched Universal Physics Transformers| arXiv:2502.09692 | [PDF](https://arxiv.org/abs/2502.09692)|
 | Latent Mamba Operator for Partial Differential Equations| arXiv:2505.19105 | [PDF](https://arxiv.org/abs/2505.19105) |
-|  | | |
+| Generative Adversarial Neural Operators | arXiv:2205.03017|[PDF](https://arxiv.org/pdf/2205.03017) |
+|Turbulence Modeling for Physics-Informed Neural Networks:Comparison of Different RANS Models for the Backward-Facing Step Flow  | sciencedirect |[PDF](https://www.sciencedirect.com/science/article/pii/S0142727X23001315) |
+|CVIT: CONTINUOUS VISION TRANSFORMER FOR OPERATOR LEARNING  | arXiv:2405.13998 | [PDF](https://arxiv.org/pdf/2405.13998) |
+| Panda: A pretrained forecast model for universal representation of chaotic dynamics | arXiv:2505.13755|[PDF](https://arxiv.org/abs/2505.13755) |
+| Neural Functional: Learning Function to Scalar Maps for Neural PDE Surrogates | arXiv:2505.13275 | [PDF](https://arxiv.org/pdf/2505.13275) |
+| Using Parametric PINNs for Predicting Internal and External Turbulent Flows | arXiv:2410.18917| [PDF](https://arxiv.org/pdf/2410.18917)|
+|  Exploring Physics-Informed Neural Networks: From Fundamentals to Applications in Complex Systems|arXiv:2410.00422 |[PDF](https://arxiv.org/abs/2410.00422) |
+| An Advanced Physics-Informed Neural Operator for Comprehensive Design Optimization of Highly-Nonlinear Systems: An Aerospace Composites Processing Case Study | https://arxiv.org/pdf/2406.14715 | [PDF](https://arxiv.org/pdf/2406.14715) |
+|  PHYSICS-INFORMED MESH-INDEPENDENT DEEP COMPOSITIONAL OPERATOR NETWORK|https://arxiv.org/html/2404.13646v1 | [PDF](https://arxiv.org/html/2404.13646v1) |
+| Physics Informed Neural Networks for Modeling of 3D Flow-Thermal Problems with Sparse Domain Data |arXiv:2309.03374 |[PDF](https://arxiv.org/abs/2309.03374) |
+| Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications  | arXiv:2211.08064| [PDF](https://arxiv.org/abs/2211.08064) |
+|Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs  |arXiv:2108.08481 |[PDF](https://arxiv.org/abs/2108.08481) |
+| Using Physics-Informed neural networks for solving Navier-Stokes equations in fluid dynamic complex scenarios | sciencedirect |[PDF](https://www.sciencedirect.com/science/article/pii/S0952197625003471) |
 
 
 #  Learning Resources
