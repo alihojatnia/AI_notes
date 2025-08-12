@@ -52,6 +52,14 @@
 | Efficient Knowledge Distillation: Empowering SLMs with Teacher Model Insights | arXiv:2409.12586 | [PDF](https://arxiv.org/pdf/2409.12586) |
 | Small Language Models are the Future of Agentic AI | arXiv:2506.02153 | [Read](https://arxiv.org/abs/2506.02153) |
 
+##  Physics-informed Neural Networks
+
+| Paper | Type | Link |
+|-------|------|------|
+|  Simulating Three-dimensional Turbulence with Physics-informed Neural Networks  | arXiv:2507.08972 |  [PDF](https://arxiv.org/abs/2507.08972) |
+| AB-UPT: Scaling Neural CFD Surrogates for High-Fidelity Automotive Aerodynamics Simulations via Anchored-Branched Universal Physics Transformers| arXiv:2502.09692 | [PDF](https://arxiv.org/abs/2502.09692)|
+| Latent Mamba Operator for Partial Differential Equations| arXiv:2505.19105 | [PDF](https://arxiv.org/abs/2505.19105) |
+|  | | |
 
 
 #  Learning Resources
