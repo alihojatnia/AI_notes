@@ -66,8 +66,8 @@
 | Neural Functional: Learning Function to Scalar Maps for Neural PDE Surrogates | arXiv:2505.13275 | [PDF](https://arxiv.org/pdf/2505.13275) |
 | Using Parametric PINNs for Predicting Internal and External Turbulent Flows | arXiv:2410.18917| [PDF](https://arxiv.org/pdf/2410.18917)|
 |  Exploring Physics-Informed Neural Networks: From Fundamentals to Applications in Complex Systems|arXiv:2410.00422 |[PDF](https://arxiv.org/abs/2410.00422) |
-| An Advanced Physics-Informed Neural Operator for Comprehensive Design Optimization of Highly-Nonlinear Systems: An Aerospace Composites Processing Case Study | https://arxiv.org/pdf/2406.14715 | [PDF](https://arxiv.org/pdf/2406.14715) |
-|  PHYSICS-INFORMED MESH-INDEPENDENT DEEP COMPOSITIONAL OPERATOR NETWORK|https://arxiv.org/html/2404.13646v1 | [PDF](https://arxiv.org/html/2404.13646v1) |
+| An Advanced Physics-Informed Neural Operator for Comprehensive Design Optimization of Highly-Nonlinear Systems: An Aerospace Composites Processing Case Study | arxiv.org/pdf/2406.14715 | [PDF](https://arxiv.org/pdf/2406.14715) |
+|  PHYSICS-INFORMED MESH-INDEPENDENT DEEP COMPOSITIONAL OPERATOR NETWORK| arxiv.org/html/2404.13646v1 | [PDF](https://arxiv.org/html/2404.13646v1) |
 | Physics Informed Neural Networks for Modeling of 3D Flow-Thermal Problems with Sparse Domain Data |arXiv:2309.03374 |[PDF](https://arxiv.org/abs/2309.03374) |
 | Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications  | arXiv:2211.08064| [PDF](https://arxiv.org/abs/2211.08064) |
 |Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs  |arXiv:2108.08481 |[PDF](https://arxiv.org/abs/2108.08481) |
