@@ -146,7 +146,7 @@
 | DB-GPT | AI-native data app framework | [Link](https://chatgpt.com/c/6896df09-83a8-8320-bd78-9624c542f703) |
 | GraphRAG | Microsoft’s data pipeline for reasoning on private data | [GitHub](https://github.com/microsoft/graphrag) |
 | HippoRAG 2 | LLM memory framework | [GitHub](https://github.com/OSU-NLP-Group/HippoRAG) |
-| SQL| cheat sheet | [learnsql](https://learnsql.com/tags/cheat-sheet/)|
+| SQL| cheat sheet | [learnsql](https://learnsql.com/tags/cheat-sheet)|
 
 ---
 
