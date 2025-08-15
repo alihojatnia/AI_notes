@@ -146,6 +146,7 @@
 | DB-GPT | AI-native data app framework | [Link](https://chatgpt.com/c/6896df09-83a8-8320-bd78-9624c542f703) |
 | GraphRAG | Microsoft’s data pipeline for reasoning on private data | [GitHub](https://github.com/microsoft/graphrag) |
 | HippoRAG 2 | LLM memory framework | [GitHub](https://github.com/OSU-NLP-Group/HippoRAG) |
+| SQL| cheat sheet | [learnsql](https://learnsql.com/tags/cheat-sheet/)|
 
 ---
 
@@ -163,6 +164,7 @@
 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [Amazon](https://www.amazon.co.uk/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) |
 | Fluent Python | Luciano Ramalho | [Amazon](https://www.amazon.co.uk/Fluent-Python-Luciano-Ramalho/dp/1491946008) |
 | R for Data Science | Hadley Wickham  | [Amazon](https://www.amazon.com/dp/1492097403/ref=emc_bcc_2_i), [Web](https://r4ds.hadley.nz/) |
+|Python Data Science Handbook | Jake VanderPlas | [Oreilly](https://www.oreilly.com/library/view/python-data-science/9781491912126/) , [Github](https://github.com/jakevdp/PythonDataScienceHandbook) |
 
 
   
