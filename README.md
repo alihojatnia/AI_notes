@@ -51,6 +51,7 @@
 | Teaching Small Language Models Reasoning through Counterfactual Distillation | arXiv:2212.08410 | [Read](https://arxiv.org/abs/2212.08410) |
 | Efficient Knowledge Distillation: Empowering SLMs with Teacher Model Insights | arXiv:2409.12586 | [PDF](https://arxiv.org/pdf/2409.12586) |
 | Small Language Models are the Future of Agentic AI | arXiv:2506.02153 | [Read](https://arxiv.org/abs/2506.02153) |
+| A Survey of Small Language Models| arXiv:2410.20011 |[PDF](https://arxiv.org/pdf/2410.20011) |
 
 ##  Physics-informed Neural Networks
 
