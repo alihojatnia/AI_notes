@@ -148,6 +148,7 @@
 | GraphRAG | Microsoft’s data pipeline for reasoning on private data | [GitHub](https://github.com/microsoft/graphrag) |
 | HippoRAG 2 | LLM memory framework | [GitHub](https://github.com/OSU-NLP-Group/HippoRAG) |
 | SQL|  tutorial | [sqltutorial](https://www.sqltutorial.org/)|
+| Statistics Fundamentals by StatQuest with Josh Starmer | tutorial| [youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|
 
 ---
 
