@@ -149,6 +149,7 @@
 | HippoRAG 2 | LLM memory framework | [GitHub](https://github.com/OSU-NLP-Group/HippoRAG) |
 | SQL|  tutorial | [sqltutorial](https://www.sqltutorial.org/)|
 | Statistics Fundamentals by StatQuest with Josh Starmer | tutorial| [youtube](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|
+| Advanced LLM Agents MOOC | Berkeley | [Youtube] (https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9nGkzhvtn6Egn)| 
 
 ---
 
