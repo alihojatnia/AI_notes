@@ -17,6 +17,7 @@
 | Unifying LLMs and Knowledge Graphs: A Roadmap | arXiv:2306.08302 | [PDF](https://arxiv.org/pdf/2306.08302) |
 |  Mixture-of-Agents Enhances Large Language Model Capabilities |arXiv:2406.04692 | [PDF](https://arxiv.org/pdf/2406.04692)|
 | Hierarchical Reasoning Model |arXiv:2506.21734 | [PDF](https://arxiv.org/abs/2506.21734)|
+| A Survey on Large Language Model Benchmarks | arXiv:2508.15361 | [arxiv](https://arxiv.org/abs/2508.15361) |
 
 ---
 
@@ -74,6 +75,13 @@
 |Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs  |arXiv:2108.08481 |[PDF](https://arxiv.org/abs/2108.08481) |
 | Using Physics-Informed neural networks for solving Navier-Stokes equations in fluid dynamic complex scenarios | sciencedirect |[PDF](https://www.sciencedirect.com/science/article/pii/S0952197625003471) |
 
+##  Papers 
+
+| Paper | Type | Link |
+|-------|------|------|
+| CellForge: Agentic Design of Virtual Cell Models | arXiv:2508.02276 | [arxiv](https://arxiv.org/abs/2508.02276) |
+| A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems | arXiv:2508.07407 | [PDF](https://arxiv.org/abs/2508.07407) |
+| A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence | arXiv:2507.21046 |[PDF](https://arxiv.org/abs/2507.21046) |
 
 #  Learning Resources
 
