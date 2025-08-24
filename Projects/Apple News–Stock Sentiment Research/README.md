@@ -83,7 +83,7 @@ A research project exploring the relationship between Apple Inc. (AAPL) news sen
 
 ---
 
-## 🖥️ Streamlit Dashboard
+## Streamlit Dashboard
 
 Run the dashboard to browse news, filter by date/source/sentiment, and compare sentiment vs. returns.
 
