@@ -1,2 +1,3 @@
 Projects list 
-- Apple News–Stock Sentiment Research
+- Apple News–Stock Sentiment Research 
+
