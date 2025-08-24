@@ -116,14 +116,12 @@ df['Strategy_Return'] = df['Sentiment_Binary'] * df['Next_Day_Return']
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 * Price with rolling average vs. average daily sentiment.
 * Histogram of **Next\_Day\_Return** by sentiment bucket.
 * Rolling correlation between sentiment and next-day returns.
 * Cumulative **Strategy\_Return** vs. buy-and-hold.
-
-> Plots are created in `notebooks/` and re-used in `app.py`.
 
 ---
 
