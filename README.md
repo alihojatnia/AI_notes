@@ -82,6 +82,7 @@
 | CellForge: Agentic Design of Virtual Cell Models | arXiv:2508.02276 | [arxiv](https://arxiv.org/abs/2508.02276) |
 | A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems | arXiv:2508.07407 | [PDF](https://arxiv.org/abs/2508.07407) |
 | A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence | arXiv:2507.21046 |[PDF](https://arxiv.org/abs/2507.21046) |
+| NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model | arXiv:2508.14444 | [PDF](https://arxiv.org/abs/2508.14444) |
 
 #  Learning Resources
 
