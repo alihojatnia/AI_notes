@@ -33,11 +33,11 @@ A research project exploring the relationship between Apple Inc. (AAPL) news sen
 * **published\_dt\_only**: Article publish date (date-only, normalized to local/UTC as configured).
 * **Open\_AAPL, High\_AAPL, Low\_AAPL, Close\_AAPL, Volume\_AAPL**: Daily OHLCV from Yahoo Finance.
 * **sentiment**: Categorical sentiment label (e.g., `positive`/`neutral`/`negative`).
-* **sentiment\_score**: Continuous sentiment polarity score (e.g., from VADER/TextBlob).
+* **sentiment\_score**: Continuous sentiment polarity score.
 * **Volatility**: Rolling or intraday proxy (e.g., `(High - Low) / Open`), configurable.
 * **Daily\_Return**: Daily log or simple return of AAPL for the publish date.
 * **Sentiment\_Lag1 / Sentiment\_Lag7**: Lagged sentiment scores to test delayed effects.
-* **Sentiment\_Binary**: Thresholded sentiment signal (e.g., `1` for bullish, `0` for not-bullish).
+* **Sentiment\_Binary**: Thresholded sentiment signal.
 * **Day\_of\_Week**: 0–6 encoding (Mon–Sun) for seasonality controls.
 * **Next\_Day\_Return**: Return from `t` to `t+1`, used as the prediction target.
 * **Strategy\_Return**: Return of a naive strategy (e.g., long if bullish sentiment, flat/short otherwise).
