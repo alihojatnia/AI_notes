@@ -60,9 +60,9 @@ A research project exploring the relationship between Apple Inc. (AAPL) news sen
 
 3. **Sentiment Analysis**
 
-   * Run sentiment over **titles** (optionally content).
-   * Save both **label** and **score**.
-   * Tools: VADER/TextBlob/HF models (select one in `config`).
+   * Run sentiment over titles 
+   * Save both label and score.
+
 
 4. **Feature Engineering**
 
@@ -78,7 +78,7 @@ A research project exploring the relationship between Apple Inc. (AAPL) news sen
 6. **Visualization & App**
 
    * Matplotlib/Plotly static charts.
-   * **Streamlit** dashboard for interactive exploration.
+   * Streamlit dashboard for interactive exploration.
 
 ---
 
@@ -118,9 +118,9 @@ df['Strategy_Return'] = df['Sentiment_Binary'] * df['Next_Day_Return']
 ## Visualizations
 
 * Price with rolling average vs. average daily sentiment.
-* Histogram of **Next\_Day\_Return** by sentiment bucket.
+* Histogram of Next\_Day\_Return by sentiment bucket.
 * Rolling correlation between sentiment and next-day returns.
-* Cumulative **Strategy\_Return** vs. buy-and-hold.
+* Cumulative Strategy\_Return vs. buy-and-hold.
 
 ---
 
@@ -130,7 +130,7 @@ df['Strategy_Return'] = df['Sentiment_Binary'] * df['Next_Day_Return']
 * Joined news to AAPL OHLCV from Yahoo Finance by date.
 * Ran sentiment analysis on titles; stored both labels and scores.
 * Engineered return/volatility, lagged sentiment features, day-of-week.
-* Evaluated a simple sentiment-driven next-day strategy and computed **Strategy\_Return**.
-* Built an interactive **Streamlit** dashboard for exploration.
+* Evaluated a simple sentiment-driven next-day strategy and computed Strategy\_Return.
+* Built an interactive Streamlit dashboard for exploration.
 
 ---
