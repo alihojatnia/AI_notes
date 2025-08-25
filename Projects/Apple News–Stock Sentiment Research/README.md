@@ -42,7 +42,6 @@ A research project exploring the relationship between Apple Inc. (AAPL) news sen
 * **Next\_Day\_Return**: Return from `t` to `t+1`, used as the prediction target.
 * **Strategy\_Return**: Return of a naive strategy (e.g., long if bullish sentiment, flat/short otherwise).
 
-> **Note:** Feature definitions are configurable in `config.py`/notebook; see code comments for exact formulas used.
 
 ---
 
