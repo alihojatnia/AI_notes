@@ -14,20 +14,18 @@ Built with:
 
 ##  Dataset
 
-**Red Wine Quality** from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)  
+**Red Wine Quality** from UCI Machine Learning Repository
 - 1,599 samples  
 - 11 input features (acidity, sugar, pH, alcohol, etc.)  
 - Binary target: `high_quality` (1 = rating ≥ 7)
 
-> Small, meaningful, and real-world — ideal for demos.
-
 ---
 
-## 🚀 Quick Start
+# Quick Start
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/wine-quality-mlflow-dvc.git
+git clone https://github.com/alihojatnia/wine-quality-mlflow-dvc.git
 cd wine-quality-mlflow-dvc
 
 # 2. Install with Poetry
@@ -50,7 +48,7 @@ dvc repro
 
 ---
 
-## 🔥 See Your Experiments
+## See Your Experiments
 
 ```bash
 mlflow ui
@@ -64,7 +62,7 @@ Open [http://localhost:5000](http://localhost:5000) to explore:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── data/
@@ -78,12 +76,12 @@ Open [http://localhost:5000](http://localhost:5000) to explore:
 ├── params.yaml       # hyperparams & split config
 ├── dvc.yaml          # pipeline definition
 ├── pyproject.toml    # Poetry deps
-└── README.md         # you're here!
+└── README.md         
 ```
 
 ---
 
-## 🛠️ Reproducibility
+## Reproducibility
 
 - **Data**: Versioned with DVC (`data/raw/*.dvc`)
 - **Pipeline**: `dvc repro` rebuilds everything
@@ -94,7 +92,7 @@ Change a parameter → commit → `dvc repro` → new version, new experiment. D
 
 ---
 
-## 🎯 Try It Yourself
+## Try It Yourself
 
 ```yaml
 # params.yaml
@@ -108,11 +106,9 @@ git commit -am "Try deeper forest"
 dvc repro
 ```
 
-Watch MLflow log a new run automatically.
-
 ---
 
-## 🌍 Remote Storage (Optional)
+## Remote Storage (Optional)
 
 Set up a DVC remote (S3, GCS, SSH, etc.):
 
@@ -125,26 +121,4 @@ Now your data lives safely outside Git.
 
 ---
 
-## 🤝 Contributing
-
-Pull requests welcome! Feel free to:
-- Add new models (XGBoost, Logistic Regression)
-- Improve feature engineering
-- Add tests or CI
-
----
-
-## 📜 License
-
-[MIT](LICENSE) – free to use, modify, and show off.
-
----
-
-Built with ❤️ and a glass of good red wine.
-
----
-``` 
-
-Just replace `yourusername` with your GitHub handle, push it, and you're good to go! This README is clear, friendly, and professional — exactly what recruiters and collaborators love to see. 🍷
-```
 
