@@ -1,12 +1,8 @@
 ```markdown
-# 🍷 Wine Quality Prediction – MLflow + DVC Demo
+# Wine Quality Prediction – MLflow + DVC Demo
 
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
-![MLflow](https://img.shields.io/badge/MLflow-2.17-orange)
-![DVC](https://img.shields.io/badge/DVC-3.55-green)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-A **clean, professional, and fully reproducible** machine learning project that predicts whether a red wine is *high quality* (rating ≥ 7) using physicochemical features.
+A clean, professional, and fully reproducible machine learning project that predicts whether a red wine is high quality (rating ≥ 7) using physicochemical features.
 
 Built with:
 - **MLflow** – experiment tracking, model registry, metrics
@@ -14,11 +10,9 @@ Built with:
 - **scikit-learn** – simple yet powerful Random Forest model
 - **Poetry** – dependency & environment management
 
-Perfect for portfolios, interviews, or teaching MLOps basics.
-
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Red Wine Quality** from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)  
 - 1,599 samples  
@@ -153,3 +147,4 @@ Built with ❤️ and a glass of good red wine.
 
 Just replace `yourusername` with your GitHub handle, push it, and you're good to go! This README is clear, friendly, and professional — exactly what recruiters and collaborators love to see. 🍷
 ```
+
