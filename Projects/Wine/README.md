@@ -1,5 +1,5 @@
 
-# Wine Quality Prediction – MLflow + DVC Demo
+## Wine Quality Prediction – MLflow + DVC Demo
 
 
 A clean, professional, and fully reproducible machine learning project that predicts whether a red wine is high quality (rating ≥ 7) using physicochemical features.
@@ -12,7 +12,7 @@ Built with:
 
 ---
 
-##  Dataset
+###  Dataset
 
 **Red Wine Quality** from UCI Machine Learning Repository
 - 1,599 samples  
@@ -21,7 +21,7 @@ Built with:
 
 ---
 
-# Quick Start
+### Quick Start
 
 ```bash
 # 1. Clone the repo
@@ -48,7 +48,7 @@ dvc repro
 
 ---
 
-## See Your Experiments
+### See Experiments
 
 ```bash
 mlflow ui
@@ -62,7 +62,7 @@ Open [http://localhost:5000](http://localhost:5000) to explore:
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```text
 ├── data/
@@ -81,7 +81,7 @@ Open [http://localhost:5000](http://localhost:5000) to explore:
 
 ---
 
-## Reproducibility
+### Reproducibility
 
 - **Data**: Versioned with DVC (`data/raw/*.dvc`)
 - **Pipeline**: `dvc repro` rebuilds everything
@@ -92,7 +92,7 @@ Change a parameter → commit → `dvc repro` → new version, new experiment. D
 
 ---
 
-## Try It Yourself
+### Try It Yourself
 
 ```yaml
 # params.yaml
@@ -108,7 +108,7 @@ dvc repro
 
 ---
 
-## Remote Storage (Optional)
+### Remote Storage (Optional)
 
 Set up a DVC remote (S3, GCS, SSH, etc.):
 
@@ -117,9 +117,6 @@ dvc remote add -d myremote s3://my-bucket/wine-project
 dvc push
 ```
 
-Now your data lives safely outside Git.
-
----
 
 
 
