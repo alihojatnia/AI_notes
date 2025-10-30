@@ -1,4 +1,4 @@
-```markdown
+
 # Wine Quality Prediction – MLflow + DVC Demo
 
 
@@ -120,5 +120,6 @@ dvc push
 Now your data lives safely outside Git.
 
 ---
+
 
 
